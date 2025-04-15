@@ -1,0 +1,14 @@
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\bin\Debug\net8.0\Entrega1.exe
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\bin\Debug\net8.0\Entrega1.deps.json
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\bin\Debug\net8.0\Entrega1.runtimeconfig.json
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\bin\Debug\net8.0\Entrega1.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\bin\Debug\net8.0\Entrega1.pdb
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\obj\Debug\net8.0\Entrega1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\obj\Debug\net8.0\Entrega1.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\obj\Debug\net8.0\Entrega1.AssemblyInfo.cs
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\obj\Debug\net8.0\Entrega1.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\obj\Debug\net8.0\Entrega1.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\obj\Debug\net8.0\refint\Entrega1.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\obj\Debug\net8.0\Entrega1.pdb
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\obj\Debug\net8.0\Entrega1.genruntimeconfig.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega1\Entrega1\obj\Debug\net8.0\ref\Entrega1.dll
